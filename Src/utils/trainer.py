@@ -2,7 +2,7 @@ import torch
 from torch.autograd import Variable
 from datetime import datetime
 import os
-from apex import amp
+# from apex import amp
 import torch.nn.functional as F
 
 
